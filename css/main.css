@@ -5,3 +5,11 @@ h1 {
   color: salmon;
   text-decoration: underline;
 }
+
+img {
+  height: 275px;
+  width: 275px;
+  border: 10px;
+  margin: 30px;
+  align-items: center;
+}
